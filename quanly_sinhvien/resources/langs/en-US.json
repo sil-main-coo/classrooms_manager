@@ -1,0 +1,49 @@
+{
+  "pick_role": {
+    "title" : "Login as",
+    "student": "Student",
+    "teacher": "Teacher"
+  },
+  "login": {
+    "account": "Account",
+    "password": "Password",
+    "login_button": "Login",
+    "login_student": {
+      "title": "Student Login",
+      "change_role": "Are you a teacher?"
+    },
+    "login_teacher": {
+      "title": "Teacher Login",
+      "change_role": "Are you a student?"
+    }
+  },
+  "main_student": {
+    "home": {
+      "box_header": {
+        "student_code": "Student code",
+        "major": "Major",
+        "today": "Today"
+      },
+      "grid_menu": {
+        "scan_code": "Attendance",
+        "schedule": "Schedule",
+        "chart": "Statistical Chart",
+        "profile" : "Student Profile",
+        "logout": "Logout",
+        "setting": "Setting"
+      }
+    }
+  },
+  "dialog": {
+    "logout": {
+      "msg": "Are you sure you want to logout?"
+    },
+    "yes": "Yes",
+    "no": "No",
+    "ok": "Ok"
+  },
+  "toast": {
+    "online": "You are online",
+    "offline": "You are offline"
+  }
+}

@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:imei_plugin] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\imei_plugin\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:location] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\location\intermediates\library_manifest\release\AndroidManifest.xml:2:1-10:12
+MERGED from [:shared_preferences] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\flutter_secure_storage\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:sqflite] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\7172591d684577bbf962351f52c07b40\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1d98168882cf3e4b55cbf22d0028d792\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\7f9f1d99e7b78c2b51b84f74dc2286a2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5f58273f30cefe4e6021d28e4bd4884b\AndroidManifest.xml:17:1-28:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\61d37c5e3f235a9d48b65dda645794a3\AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\bb1d2ff7c663efceda22b9ab5a8c5b90\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\143ff1dcb5d41c94fb3c9ff3bd78b863\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3bf1d6919d47f3bae63aeed1c883be1b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c9df06c01aa50c7ffa6c649f74052646\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\59e6b4f27c47e226e34926db8d1348b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\66354cb9c6c60e6b1f5a368b661e29e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4786a6a1ff1116729ba591f495795ecd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\9906ca21fb1d3bc18edbdf353bff1581\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\d160409a1f47addaeb94dd556e703937\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0916f8e7198e5f4eae1f8798c5e3931e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\55dac46f3efe563b0e7e5783adf01101\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\238aed388dc2c7f6ead3b6d247fe0341\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\b244b9a095193c0fdc423d2e86682ac3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\53f2440b45ac209270c7af32aca941c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4e2503be1aeb8f33396645c9a24e1d49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\78388349744f4b5221b093988c8bafe2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4818e053120cafeff0b402bb077e4f87\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\d5f3d0185ba4f8cdc5e624766095d7d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\13e3e1dca4ed846b847e2ed5ef750f31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\362b406bba530a80b5fe8c7118a26b95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ebdaab9bb86c166b1cc1634e576c5fe2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a5200d80ddf0484a31615aa19e658d71\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ece9bca1d3824146a3512738c025d9ca\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\b29461cb8f69c9b53f9e8d0d9abce3dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\c23bf45eb516ce8f6afd424ebf17a49a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\16a24c03fa28ebe8a0aee9718179ec9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\90285d55234efb09c5e9c28181c195f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7e6e517ff6d8f34034b8cfa82e153ae3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b5aecad01d982775b465244f7c05a075\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\f28949095ab6fa9e9b6ee62b5224dc33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\327d8bc4127bf4bcf06ec9d49dfc78c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\98083204dce506109f6257ff50d63a2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a00e77e4b759ae98bbc30d70b3c78e92\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:2:5-51
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:9:5-65
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:11:5-65
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [:location] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\location\intermediates\library_manifest\release\AndroidManifest.xml:8:5-79
+MERGED from [:location] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\location\intermediates\library_manifest\release\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:11:5-75
+MERGED from [:imei_plugin] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\imei_plugin\intermediates\library_manifest\release\AndroidManifest.xml:7:5-75
+MERGED from [:imei_plugin] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\imei_plugin\intermediates\library_manifest\release\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:11:22-72
+application
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:13:5-37:19
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:19
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\7172591d684577bbf962351f52c07b40\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\7172591d684577bbf962351f52c07b40\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1d98168882cf3e4b55cbf22d0028d792\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1d98168882cf3e4b55cbf22d0028d792\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\7f9f1d99e7b78c2b51b84f74dc2286a2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\7f9f1d99e7b78c2b51b84f74dc2286a2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5f58273f30cefe4e6021d28e4bd4884b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5f58273f30cefe4e6021d28e4bd4884b\AndroidManifest.xml:22:5-26:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\61d37c5e3f235a9d48b65dda645794a3\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\61d37c5e3f235a9d48b65dda645794a3\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\bb1d2ff7c663efceda22b9ab5a8c5b90\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\bb1d2ff7c663efceda22b9ab5a8c5b90\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3bf1d6919d47f3bae63aeed1c883be1b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3bf1d6919d47f3bae63aeed1c883be1b\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a5200d80ddf0484a31615aa19e658d71\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a5200d80ddf0484a31615aa19e658d71\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ece9bca1d3824146a3512738c025d9ca\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ece9bca1d3824146a3512738c025d9ca\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a5200d80ddf0484a31615aa19e658d71\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:15:9-40
+	android:icon
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:16:9-43
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:14:9-57
+activity#com.truong.viethoang.quanly_sinhvien.MainActivity
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:17:9-35:20
+	android:launchMode
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:21:13-144
+	android:theme
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:18:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:28:13-30:40
+	android:value
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:30:17-37
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:29:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.apptreesoftware.barcodescan.BarcodeScannerActivity
+ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:36:9-90
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:14:9-91
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:14:9-91
+	android:name
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml:36:19-88
+uses-sdk
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcode_scan] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\barcode_scan\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:imei_plugin] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\imei_plugin\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:imei_plugin] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\imei_plugin\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:location] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\location\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:location] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\location\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\flutter_secure_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter_secure_storage] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\flutter_secure_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:sqflite] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\7172591d684577bbf962351f52c07b40\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\7172591d684577bbf962351f52c07b40\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1d98168882cf3e4b55cbf22d0028d792\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1d98168882cf3e4b55cbf22d0028d792\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\7f9f1d99e7b78c2b51b84f74dc2286a2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\7f9f1d99e7b78c2b51b84f74dc2286a2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5f58273f30cefe4e6021d28e4bd4884b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5f58273f30cefe4e6021d28e4bd4884b\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\61d37c5e3f235a9d48b65dda645794a3\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\zxing-1.9.13.aar\61d37c5e3f235a9d48b65dda645794a3\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\bb1d2ff7c663efceda22b9ab5a8c5b90\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-core-1.9.13.aar\bb1d2ff7c663efceda22b9ab5a8c5b90\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\143ff1dcb5d41c94fb3c9ff3bd78b863\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\143ff1dcb5d41c94fb3c9ff3bd78b863\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3bf1d6919d47f3bae63aeed1c883be1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3bf1d6919d47f3bae63aeed1c883be1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c9df06c01aa50c7ffa6c649f74052646\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c9df06c01aa50c7ffa6c649f74052646\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\59e6b4f27c47e226e34926db8d1348b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\59e6b4f27c47e226e34926db8d1348b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\66354cb9c6c60e6b1f5a368b661e29e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\66354cb9c6c60e6b1f5a368b661e29e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4786a6a1ff1116729ba591f495795ecd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4786a6a1ff1116729ba591f495795ecd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\9906ca21fb1d3bc18edbdf353bff1581\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\9906ca21fb1d3bc18edbdf353bff1581\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\d160409a1f47addaeb94dd556e703937\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\d160409a1f47addaeb94dd556e703937\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0916f8e7198e5f4eae1f8798c5e3931e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0916f8e7198e5f4eae1f8798c5e3931e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\55dac46f3efe563b0e7e5783adf01101\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\55dac46f3efe563b0e7e5783adf01101\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\238aed388dc2c7f6ead3b6d247fe0341\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\238aed388dc2c7f6ead3b6d247fe0341\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\b244b9a095193c0fdc423d2e86682ac3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\b244b9a095193c0fdc423d2e86682ac3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\53f2440b45ac209270c7af32aca941c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\53f2440b45ac209270c7af32aca941c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4e2503be1aeb8f33396645c9a24e1d49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4e2503be1aeb8f33396645c9a24e1d49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\78388349744f4b5221b093988c8bafe2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\78388349744f4b5221b093988c8bafe2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4818e053120cafeff0b402bb077e4f87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4818e053120cafeff0b402bb077e4f87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\d5f3d0185ba4f8cdc5e624766095d7d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\d5f3d0185ba4f8cdc5e624766095d7d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\13e3e1dca4ed846b847e2ed5ef750f31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\13e3e1dca4ed846b847e2ed5ef750f31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\362b406bba530a80b5fe8c7118a26b95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\362b406bba530a80b5fe8c7118a26b95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ebdaab9bb86c166b1cc1634e576c5fe2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ebdaab9bb86c166b1cc1634e576c5fe2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a5200d80ddf0484a31615aa19e658d71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a5200d80ddf0484a31615aa19e658d71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ece9bca1d3824146a3512738c025d9ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\ece9bca1d3824146a3512738c025d9ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\b29461cb8f69c9b53f9e8d0d9abce3dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\b29461cb8f69c9b53f9e8d0d9abce3dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\c23bf45eb516ce8f6afd424ebf17a49a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\c23bf45eb516ce8f6afd424ebf17a49a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\16a24c03fa28ebe8a0aee9718179ec9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\16a24c03fa28ebe8a0aee9718179ec9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\90285d55234efb09c5e9c28181c195f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\90285d55234efb09c5e9c28181c195f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7e6e517ff6d8f34034b8cfa82e153ae3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7e6e517ff6d8f34034b8cfa82e153ae3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b5aecad01d982775b465244f7c05a075\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b5aecad01d982775b465244f7c05a075\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\f28949095ab6fa9e9b6ee62b5224dc33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\f28949095ab6fa9e9b6ee62b5224dc33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\327d8bc4127bf4bcf06ec9d49dfc78c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\327d8bc4127bf4bcf06ec9d49dfc78c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\98083204dce506109f6257ff50d63a2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\98083204dce506109f6257ff50d63a2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a00e77e4b759ae98bbc30d70b3c78e92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a00e77e4b759ae98bbc30d70b3c78e92\AndroidManifest.xml:20:5-44
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\location\intermediates\library_manifest\release\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\location\intermediates\library_manifest\release\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:connectivity] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:connectivity] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from [:connectivity] F:\StudySpace\University\3rd Year\Phat trien phan mem ung dung\student_client\quanly_sinhvien\android\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:8:22-73
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\edc7157c1f8259d5dc62d138aab85e97\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5f58273f30cefe4e6021d28e4bd4884b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5f58273f30cefe4e6021d28e4bd4884b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\5f58273f30cefe4e6021d28e4bd4884b\AndroidManifest.xml:24:13-58

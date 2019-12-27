@@ -1,0 +1,4 @@
+enum NameOfRole{
+  TEACHER,
+  STUDENT
+}

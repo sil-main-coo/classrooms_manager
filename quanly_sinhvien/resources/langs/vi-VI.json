@@ -1,0 +1,49 @@
+{
+  "pick_role": {
+    "title" : "Đăng nhập với tư cách là",
+    "student": "Sinh viên",
+    "teacher": "Giảng viên"
+  },
+  "login": {
+    "account": "Tài khoản",
+    "password": "Mật khẩu",
+    "login_button": "Đăng nhập",
+    "login_student": {
+      "title": "Sinh viên đăng nhập",
+      "change_role": "Bạn là giảng viên?"
+    },
+    "login_teacher": {
+      "title": "Giảng viên đăng nhập",
+      "change_role": "Bạn là sinh viên?"
+    }
+  },
+  "main_student": {
+    "home": {
+      "box_header": {
+        "student_code": "Mã sinh viên",
+        "major": "Chuyên ngành",
+        "today": "Hôm nay"
+      },
+      "grid_menu": {
+        "scan_code": "Điểm danh",
+        "schedule": "Thời khóa biểu",
+        "chart": "Thống kê",
+        "profile" : "Hồ sơ sinh viên",
+        "logout": "Đăng xuất",
+        "setting": "Cài đặt"
+      }
+    }
+  },
+  "dialog": {
+    "logout": {
+      "msg": "Bạn sẽ đăng xuất?"
+    },
+    "yes": "Có",
+    "no": "Không",
+    "ok": "Đồng ý"
+  },
+  "toast": {
+    "online": "Bạn đang trực tuyến",
+    "offline": "Bạn đang ngoại tuyến"
+  }
+}

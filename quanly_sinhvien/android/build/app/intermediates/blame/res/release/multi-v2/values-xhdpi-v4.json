@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\StudySpace\\University\\3rd Year\\Phat trien phan mem ung dung\\student_client\\quanly_sinhvien\\android\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-1.9.13.aar\\bb1d2ff7c663efceda22b9ab5a8c5b90\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

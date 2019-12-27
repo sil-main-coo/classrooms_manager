@@ -1,0 +1,4 @@
+#Fri Dec 27 17:51:37 ICT 2019
+base.0=F\:\\StudySpace\\University\\3rd Year\\Phat trien phan mem ung dung\\student_client\\quanly_sinhvien\\android\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
